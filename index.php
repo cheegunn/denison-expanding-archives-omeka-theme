@@ -36,8 +36,8 @@
   
   <div class="col-lg-4 col-lg-push-4 col-md-12 homepage-intro">
     <div class="homepage-logo">
-      <p class="sans-serif-800">EXPANDING</p>
-      <p class="serif-400">ARCHIVE</p>
+      <p class="sans-serif-800">CONSOLIDATING</p>
+      <p class="serif-400">KLIEN</p>
     </div>
     <p class="serif-400"><?php showIntro() ?></p>
   </div>
