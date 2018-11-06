@@ -36,7 +36,7 @@
     @extent .sans-serif-400;
     font-size: 0.7em;
     letter-spacing: 0.3em;
-    border:1px solid $red;
+    border:1px solid #B73E13;
     border-radius: none;
     margin: 0 auto;
     display: block;
@@ -44,12 +44,12 @@
     &.closed { 
       .glyphicon-menu-down { display: inline-block; }
       .glyphicon-menu-up { display: none; }
-      color: $red;
+      color: #B73E13;
       background-color: white;
       
       &:hover, &:focus {
         color: white;
-        background-color: $red;
+        background-color: #B73E13;
       }
     }
     
@@ -58,11 +58,11 @@
       .glyphicon-menu-up { display: inline-block; }
       
       color: white;
-      background-color: $red;
+      background-color: #B73E13;
       
       &:hover, &:focus {
         color: white;
-        background-color: $dark-red;
+        background-color: #B73E13;
       }
     }
   }
@@ -86,13 +86,13 @@
     display: inline-block;
     @extend .sans-serif-400;
     color: white;
-    background-color: $red;
+    background-color: #B73E13;
     padding: 3px 10px;
     margin: 5px 10px 5px 0;
 
     &:hover {
       color: white;
-      background-color: $dark-red;
+      background-color: #B73E13;
     }
   }
   
@@ -143,14 +143,14 @@
   border: 1px solid #c0c0c0;
   
   &:hover {
-    background-color: $red;
+    background-color: #B73E13;
     color: white !important;
     .tags a {
       color: white;
-      background-color: $dark-red;
+      background-color: #B73E13;
       
       &:hover {
-        color: $red;
+        color: #B73E13;
         background-color: white;
       }
     }
