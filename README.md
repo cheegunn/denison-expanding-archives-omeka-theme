@@ -1,5 +1,7 @@
 # Denison Expanding Archives Omeka Theme
 
-This is an Omeka theme made especially for the Expanding Archives project of Denison University, but can be used in other Omeka website with the similar purposes. The project is written in PHP, HTML and CSS.
+This repository is forked from Denison University's Expanding Archives Omeka theme. Within this repository is a customized version of the theme used for the Consolidated Klien digital art history project (http://consolidatedklien.com/). 
 
-This repository includes the files for the version of this theme used for the Consolidating Klien digital art history project.
+Primary changes made include an altered color scheme and new layouts and labels for the Item level view.
+
+The theme is written in PHP, HTML, and CSS. 
